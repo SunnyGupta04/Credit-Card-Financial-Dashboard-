@@ -60,7 +60,7 @@ Week_Over_Week_Revenue = DIVIDE((credit_card[Current_Week_Revenue]-credit_card[P
 
 
 
-Project Insights 
+Project Insights:
 
 1.	A 12.8% decrease in revenue has been observed.
 2.	Total Transaction amount count is getting decrease by 1384 as compared with previous week (51).
