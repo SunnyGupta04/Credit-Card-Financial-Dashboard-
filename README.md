@@ -3,12 +3,16 @@
 Agenda:
 "Develop a data-driven dashboard to optimize credit card operations by providing data visualizations of key performance indicators. Which will empower stakeholders with actionable insights to drive business growth and enhance customer satisfaction."
 
+
+
 Steps perform:
 1.  Import Data from SQL database.
 a.	Importing CSV File from SQL database to power Bi. 
 The Above mention steps are being done within my Postgre SQL Database.
 
-Dax Quries 
+
+
+Dax Quries :
 
  
 1. Created a column name (Customer Age Group)
